@@ -1,1 +1,1 @@
-# simple-travel-site
+# WB1-exercises
